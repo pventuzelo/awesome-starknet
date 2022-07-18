@@ -206,6 +206,8 @@
 
 #### Audit
 
+- [thoth](https://github.com/FuzzingLabs/thoth) - Cairo/Starknet bytecode disassembler
+
 ## Editor Plugins
 
 #### Vim
